@@ -1,0 +1,14 @@
+# Code sniffer
+pylint==2.3.1
+pep8==1.7.1
+autopep8==1.4.4
+
+# Data/Numbers manipulation
+numpy==1.16.3
+pandas==0.23.0
+
+# Graph library
+networkx==2.3
+
+# Data plotting
+matplotlib==3.0.3
