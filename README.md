@@ -32,5 +32,5 @@ echo "backend: TkAgg" >> ~/.matplotlib/matplotlibrc
 - matplotlib.pyplot
 
 ### Validated regex using Pythex and Regex as references
-https://pythex.org/
-https://regexr.com/
+- https://pythex.org/
+- https://regexr.com/
