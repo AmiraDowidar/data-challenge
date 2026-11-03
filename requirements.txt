@@ -1,5 +1,5 @@
 # Code sniffer
-pylint==2.3.1
+pylint==4.0.9
 pep8==1.7.1
 autopep8==1.4.4
 
